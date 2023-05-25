@@ -9,7 +9,7 @@ const slides = [golfScoreTracker, expenseTracker, personalPortfolio];
 const links = [
   "https://github.com/frankz101/golfhandicaptracker",
   "https://github.com/frankz101/expensetracker",
-  "https://github.com/frankz101/franklinzhuwebsite",
+  "https://github.com/frankz101/franklinzhuportfolio",
 ];
 
 const ProjectSlider = () => {
